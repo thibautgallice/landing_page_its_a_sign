@@ -1,0 +1,9 @@
+.jumbotron-fluid {
+  background-image: url("../img/astral.jpg");
+  background-size: cover;
+  height: 500px;
+}
+
+.fa-camera {
+  font-size: 48px;
+}
